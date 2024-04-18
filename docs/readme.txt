@@ -141,7 +141,7 @@ Deploying Flask to gcloud platform
              tab and edit container port to '5000', increase the memory limit to 1GiB and go to 
               variable and secrets tab and click on add environment variable as follows
                Name                     value
-           a. GITHUB_TOKEN              " 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"
+           a. GITHUB_TOKEN              "xyz"
 
        12: Click on create, this will create the service on port 5000 and will generate the url, hit the url.
 
