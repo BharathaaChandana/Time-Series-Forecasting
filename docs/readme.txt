@@ -78,7 +78,7 @@ Deploying LSTM to gcloud platform
            memory limit to 1GiB and go to variable and secrets tab and click on add environment \
            variable as follows(there will three environment variable):
                 Name                                 			value  
-            a. GOOGLE_APPLICATION_CREDENTIALS     " lstm-micro-service-c23180e2fdf9.json"
+            a. GOOGLE_APPLICATION_CREDENTIALS     " lstm-micro-service-cdf9.json"
             b. BASE_IMAGE_PATH                  "https://storage.googleapis.com/lstm-micro-service/"
             c. BUCKET_NAME                                      "lstm-micro-service"
             
